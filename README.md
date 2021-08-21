@@ -1,7 +1,5 @@
 # 广内书库首页
 
-***<https://guangnei.github.io/>***
-
 **在 GitHub 上查看：<https://github.com/guangnei/guangnei.github.io>**
 
 广内书库是 GitHub 上的一个项目，旨在受到《中华人民共和国著作权法》的约束下，利用作品的信息网络传播权，让广大读者更方便地下载信息网络传播权已不受保护的简体中文文学作品。
