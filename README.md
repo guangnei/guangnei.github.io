@@ -37,6 +37,11 @@
 
 答: 本项目发布的作品遵守《中华人民共和国著作权法》，故不使用开源许可证。
 
+## 许可证
+
+[<img src="https://mirrors.creativecommons.org/presskit/icons/cc.png" alt="CC" width="48" />](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) [<img src="https://mirrors.creativecommons.org/presskit/icons/by.png" alt="BY" width="48" />](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) [<img src="https://mirrors.creativecommons.org/presskit/icons/nc-jp.png" alt="NC" width="48" />](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) [<img src="https://mirrors.creativecommons.org/presskit/icons/sa.png" alt="SA" width="48" />](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)  
+本作品采用 [CC BY-NC-SA 3.0 CN](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 许可协议进行许可。
+
 ---
 
 **本项目不对因使用本项目及其文档而产生的任何后果负责。**
